@@ -1,0 +1,31 @@
+,antecedents,consequents
+703,"frozenset({16, 26, 31})","frozenset({43, 36})"
+643,"frozenset({24, 34, 22})","frozenset({31, 7})"
+642,"frozenset({34, 31, 7})","frozenset({24, 22})"
+682,"frozenset({26, 21, 14})","frozenset({18, 15})"
+652,"frozenset({34, 10, 36})","frozenset({44, 22})"
+646,"frozenset({24, 22, 31})","frozenset({34, 7})"
+666,"frozenset({24, 20, 15})","frozenset({12, 30})"
+702,"frozenset({16, 26, 43})","frozenset({36, 31})"
+700,"frozenset({16, 43, 36})","frozenset({26, 31})"
+653,"frozenset({34, 10, 22})","frozenset({36, 44})"
+658,"frozenset({26, 11, 36})","frozenset({17, 21})"
+645,"frozenset({24, 31, 7})","frozenset({34, 22})"
+676,"frozenset({26, 43, 13})","frozenset({40, 14})"
+675,"frozenset({40, 26, 13})","frozenset({43, 14})"
+636,"frozenset({45, 6, 31})","frozenset({18, 38})"
+635,"frozenset({18, 45, 6})","frozenset({38, 31})"
+664,"frozenset({12, 20, 15})","frozenset({24, 30})"
+644,"frozenset({31, 22, 7})","frozenset({24, 34})"
+701,"frozenset({16, 26, 36})","frozenset({43, 31})"
+688,"frozenset({40, 14, 30})","frozenset({27, 31})"
+665,"frozenset({12, 30, 15})","frozenset({24, 20})"
+674,"frozenset({40, 13, 14})","frozenset({26, 43})"
+694,"frozenset({19, 44, 21})","frozenset({34, 15})"
+673,"frozenset({40, 43, 13})","frozenset({26, 14})"
+667,"frozenset({20, 30, 15})","frozenset({24, 12})"
+324,"frozenset({17, 14, 33})",frozenset({9})
+330,"frozenset({18, 35, 23})",frozenset({9})
+335,"frozenset({32, 43, 38})",frozenset({9})
+254,"frozenset({28, 7, 23})",frozenset({9})
+639,"frozenset({24, 34, 31, 7})",frozenset({22})
